@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "Administrador",
+    "cpf": "000.000.000-00",
+    "telefone": "(00) 00000-0000",
+    "login": "admin",
+    "senha": "admin"
+  },
+  {
+    "nome": "Professor Sérgio",
+    "cpf": "111.222.333-44",
+    "telefone": "(24) 98888-7777",
+    "login": "sergio",
+    "senha": "123"
+  },
+  {
+    "nome": "Boromir",
+    "cpf": "1234567891011",
+    "telefone": "24 992044567",
+    "login": "Nirvana",
+    "senha": "Nirvana"
+  }
+]
