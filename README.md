@@ -23,11 +23,13 @@ Aplicação desktop e API para gestão completa de academia, desenvolvida em Pyt
 
 ---
 
-## 🔑 Credenciais de Teste
+## 🔑 Acesso ao Sistema
 
-Para aceder à aplicação no modo de demonstração:
-- **Login:** `admin` | **Senha:** `admin`
-- **Login:** `sergio` | **Senha:** `123`
+Para garantir o correto funcionamento e a sincronização do banco de dados no seu ambiente local, siga o procedimento no primeiro acesso:
+
+1. Na tela inicial de login, clique no botão **"Cadastrar Instrutor"**.
+2. Preencha os dados para criar o seu próprio perfil de acesso com o login e a senha de sua preferência.
+3. Retorne à tela principal e faça o login com o perfil criado.
 
 ---
 
@@ -38,7 +40,7 @@ Para aceder à aplicação no modo de demonstração:
 
 ### Passo a Passo
 
-1. **Clonar o repositório:**
+1. **Clonar o repositório e acessar a pasta:**
    ```bash
    git clone [https://github.com/joaogabriel-andrieux/Sistema_Academia.git](https://github.com/joaogabriel-andrieux/Sistema_Academia.git)
    cd Sistema_Academia
